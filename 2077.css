@@ -21,7 +21,7 @@
 .theme-dark {
     --header-primary: #ea00d9;
     --header-secondary: #0abdc6;
-    --text-normal: #0abdc6;
+    --text-normal: #ffffff ;
     --text-muted: rgba(10, 189, 198, .6);
     --text-link: #ea00d9;
     --channels-default: rgba(10, 189, 198, .7);
